@@ -15,4 +15,4 @@
 ## I'm Raul Harrington Jr.
 Here are some ideas to get you started:
 <br />
-<img align="right" alt="GIF" src="https://wifflegif.com/gifs/5555-abominable-gameplay-gif" />
+<img align="right" alt="GIF" src="http://24.media.tumblr.com/tumblr_m0a4l2esHw1qibjfyo1_500.gif" />
