@@ -13,6 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 ## I'm Raul Harrington Jr.
-Here are some ideas to get you started:
 <br />
+<div style="text-align: right"> When someone asks me how long I've been into computers: </div>
 <img align="right" alt="GIF" src="http://24.media.tumblr.com/tumblr_m0a4l2esHw1qibjfyo1_500.gif" />
