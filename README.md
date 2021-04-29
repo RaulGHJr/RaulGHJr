@@ -14,5 +14,7 @@
 -->
 ## I'm Raul Harrington Jr.
 <br />
-<div style="text-justify: right"> When someone asks me how long I've been into computers: </div>
+<p align="right">
+When someone asks me how long I've been into computers:
+</p>
 <img align="right" alt="GIF" src="http://24.media.tumblr.com/tumblr_m0a4l2esHw1qibjfyo1_500.gif" />
