@@ -3,12 +3,6 @@
 <!--
 **RaulGHJr/RaulGHJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-## I'm Raul Harrington Jr.
-Here are some ideas to get you started:
-<br />
-<img align="right" alt="GIF" src="https://wifflegif.com/gifs/5555-abominable-gameplay-gif" />
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm Raul Harrington Jr.
+Here are some ideas to get you started:
+<br />
+<img align="right" alt="GIF" src="https://wifflegif.com/gifs/5555-abominable-gameplay-gif" />
