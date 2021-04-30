@@ -19,7 +19,7 @@
 ### Something I'm embarassed about 🤦:
 - It was in Pascal...I fell old everytime I think about it 👴.
 ### How to reach me 📫:
-<br>[Linkedin](https://www.linkedin.com/in/raul-harrington-jr/) [Gmail](mailto:raulgharringtonjr@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/raul-harrington-jr/) [Gmail](mailto:raulgharringtonjr@gmail.com)
 <br />
 
 
