@@ -2,7 +2,7 @@
 
 <!--
 **RaulGHJr/RaulGHJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img width="35%" align="right" alt="GIF" src="http://24.media.tumblr.com/tumblr_m0a4l2esHw1qibjfyo1_500.gif" />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 ## I'm Raul Harrington Jr.
-
+<img width="35%" align="right" alt="GIF" src="http://24.media.tumblr.com/tumblr_m0a4l2esHw1qibjfyo1_500.gif" />
 - Some background about me:
 <br>- I wasa Math major in college.
 <br>- I'm fluent in Python, conversant in SQL and studying R.
