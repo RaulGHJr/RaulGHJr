@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 ## I'm Raul Harrington Jr.
-<img width="35%" align="right" alt="GIF" src="http://24.media.tumblr.com/tumblr_m0a4l2esHw1qibjfyo1_500.gif" />
+<img width="35%" align="right" alt="GIF" src="https://github.com/RaulGHJr/RaulGHJr/blob/main/Howlong.gif" />
 
 - Some background about me:
 <br>- I wasa Math major in college.
