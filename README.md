@@ -12,16 +12,12 @@
 - I have some great Data Science Projects. Have a look.
 - I also have a  [Medium](https://raulgharringtonjr.medium.com/) portfolio. Have a look too.
 - I'm looking for a position in Data Science, Data Engineering or Data Analysis
-<br>
 ### Something fun about me 🎉:
 - I've owned a gaming system in every generation since NES, except 32-bit.
-<br>
 ### Something I'm proud of 😏:
 - I computerized my Primary School's record keeping processes as my O-Level project
-<br>
 ### Something I'm embarassed about 🤦:
 - It was in Pascal...I fell old everytime I think about it 👴.
-<br>
 ### How to reach me 📫:
 <br>[Linkedin](https://www.linkedin.com/in/raul-harrington-jr/) [Gmail](mailto:raulgharringtonjr@gmail.com)
 <br />
